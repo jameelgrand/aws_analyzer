@@ -21,14 +21,14 @@ pip install boto3
 Clone the Tool and run as below
 
 ```
-./aws_analyzer.py [acountid] [region]
+./aws_analyzer_v1.1.py [acountid] [region]
 ```
 -Account id is necessary to get snapshots infomation
 
 ### Execution and summary output
 
 ```
-./aws_analyzer.py 34534533 us-west-1
+./aws_analyzer_v1.1.py 34534533 us-west-1
 ``` 
 ![alt text](https://github.com/charithd/aws_analyzer/blob/master/aws-analyzer_out.png)
 
